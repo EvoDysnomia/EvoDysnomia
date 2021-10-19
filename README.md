@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EvoDysnomia.
 - 👀 I’m interested in webapps, java client software development
 - 🌱 I’m currently learning by to code by myself
-- 📫 How to reach me ...
 
 <!---
 EvoDysnomia/EvoDysnomia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
